@@ -14,9 +14,5 @@ while True:
     d = randint(0,izmers/10)
     audekls.create_oval(x0,y0,x0+d,y0+d,fill=krasa)
     logs.update()
-
-
-
-
-
+    
 mainloop()
